@@ -6,6 +6,15 @@ It's the basic free version and I developed advanced version for it.
 Feel free to contact with me on Whatsapp[https://wa.me/13137423660] or Telegram[https://t.me/DevCutup]
 
 
+## Main features 
+- Token creation
+- Dev buy when liquidity pool created
+- Lookup table creation
+- Bundle new liquidity token
+- Custom sell logic
+- Transaction confirmation & bundle order by Jito
+
+
 ## How to use it
 
 To get started with the Pump.Fun Launch Bundle Tool, follow these steps:
@@ -36,6 +45,7 @@ To get started with the Pump.Fun Launch Bundle Tool, follow these steps:
     ```bash
     npm start
     ```
+
 
 ## Usage
 
